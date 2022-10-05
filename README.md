@@ -7,3 +7,10 @@ Created this repo on : 05/10//2022
 
 Need Continous and determined towards learning.... DSA , Languages(C++,Java,Python) , Theory Concepts...
 
+
+Members :
+Jefri Jebason
+Sanjai 
+Makesh
+Geoffrey 
+Krishna 
