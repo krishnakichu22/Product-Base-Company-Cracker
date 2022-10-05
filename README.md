@@ -9,8 +9,8 @@ Need Continous and determined towards learning.... DSA , Languages(C++,Java,Pyth
 
 
 Members :
-Jefri Jebason
-Sanjai 
-Makesh
-Geoffrey 
-Krishna 
+Jefri Jebason,
+Sanjai,
+Makesh,
+Geoffrey, 
+Krishna...
